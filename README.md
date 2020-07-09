@@ -2,7 +2,7 @@
 Projeto desenvolvido durante a Next Level Week #01
 
 
-<p  align="center"><img src="/public/assets/nextlevelweek_logo.svg" align="center"></img></p>
+<p  align="center"><img src="web/src/assets/nlw-logo.svg" align="center"></img></p>
 
 <h1 align="center">Next Level Week #01</h1>
 <p  align="center">Projeto <strong>Ecoleta</strong> desenvolvido durante a Next Level Week #01 da <a  href="https://rocketseat.com.br">Rocketseat</a>. Ministrado por <a href="https://github.com/diego3g"> Diego Fernandes </a></p>
