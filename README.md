@@ -17,7 +17,7 @@ Tabela de conteúdos
    * [Tecnologias utilizadas](#tecnologias-utilizadas)
    * Instalação
       * [Pré requisitos](#pré-requisitos)
-      * [Server](#configurando-rodando-server)
+      * [Server](#server)
       * [Web](#web)
       * [Mobile](#mobile)
 <!--te-->
