@@ -152,6 +152,6 @@ $ yarn ios
 <p  align="center">Projeto <strong>Ecoleta</strong> desenvolvido durante a Next Level Week #01 da <a  href="https://rocketseat.com.br">Rocketseat</a>. Ministrado por <a href="https://github.com/diego3g"> Diego Fernandes </a></p>
 
 
-
-
-
+<h3 align="center">
+💻 Desenvolvido por: Urquiza Nóbrega
+</h3>
